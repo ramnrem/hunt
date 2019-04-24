@@ -74,7 +74,7 @@ $(document).ready(function () {
             balloonContent: ''
         }, {
             iconLayout: 'default#image',
-            iconImageHref: '../src/img/map-baloon.svg',
+            iconImageHref: '../dist/img/map-baloon.svg',
             iconImageSize: [78, 95],
             iconImageOffset: [-40,-95]
         })
