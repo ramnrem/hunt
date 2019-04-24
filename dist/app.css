@@ -350,12 +350,12 @@ h1 {
   position: absolute; }
 
 .section6 .ornament img {
-  width: 648px;
-  height: 815px; }
+  width: 450px;
+  height: auto; }
 
 .section6 .ornament {
   right: -234px;
-  bottom: -400px; }
+  bottom: -240px; }
 
 .section7 {
   position: relative;
