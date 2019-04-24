@@ -90,7 +90,7 @@ h1 {
   font-family: "QanelasSoft", sans-serif;
   font-size: 23px;
   font-weight: 400;
-  line-height: 28px;
+  line-height: 24px;
   margin: 0; }
 
 .section1 {
@@ -176,7 +176,7 @@ h1 {
 .section2 {
   height: 100vh;
   max-height: 810px;
-  margin-bottom: 220px;
+  margin-bottom: 120px;
   position: relative; }
 
 .section2 .section__img {
@@ -224,7 +224,7 @@ h1 {
 .section3 {
   max-height: 910px;
   height: auto;
-  margin-bottom: 330px; }
+  margin-bottom: 130px; }
 
 .section3 .section__img {
   width: 60%;
@@ -254,10 +254,10 @@ h1 {
 
 .section4 {
   position: relative;
-  margin-bottom: 220px; }
+  margin-bottom: 120px; }
 
 .section4 .ornament {
-  top: -350px;
+  top: -150px;
   left: -250px; }
 
 .section4 .section-content-wrap {
@@ -313,11 +313,11 @@ h1 {
   overflow: visible !important; }
 
 .section5 {
-  margin-bottom: 410px; }
+  margin-bottom: 220px; }
 
 .section6 {
   position: relative;
-  margin-bottom: 400px; }
+  margin-bottom: 220px; }
 
 .section6 .title {
   line-height: 101px;
@@ -359,7 +359,7 @@ h1 {
 
 .section7 {
   position: relative;
-  margin-bottom: 380px; }
+  margin-bottom: 200px; }
 
 .section7 .ornament {
   transform: rotate(90deg);
@@ -398,7 +398,7 @@ h1 {
 
 .section8 {
   position: relative;
-  margin-bottom: 380px; }
+  margin-bottom: 200px; }
 
 .section8 .title {
   line-height: 101px;
@@ -462,7 +462,7 @@ h1 {
   top: 30%; }
 
 .section9 {
-  margin-bottom: 270px; }
+  margin-bottom: 120px; }
 
 .section9 .title:before {
   width: 2000px !important;
@@ -595,7 +595,7 @@ footer {
     width: 200px;
     height: auto; }
   .section4 .ornament {
-    top: -250px;
+    top: -150px;
     left: -100px; }
   .section10 .section-content-wrap {
     padding: 0 3%; }
